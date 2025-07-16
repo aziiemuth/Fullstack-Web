@@ -1,0 +1,12 @@
+Backend (Node.js + Express.js)
+- npm init
+- npm install bcrypt cors dotenv express express-session mysql2
+- npm install --save-dev nodemon
+
+Frontend (Next.js)
+- npm install axios lucide-react
+- npx create-next-app@latest
+
+Database (MySQL)
+Password semua user anggota : user123
+Password semua user admin   : admin
